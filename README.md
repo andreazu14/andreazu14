@@ -3,8 +3,6 @@
 
 ¡Hola! 👋 Soy desarrolladora frontend creativa y apasionada por la creación de experiencias web interactivas y atractivas. Aquí encontrarás algunos de mis proyectos más recientes durante mi proceso como Desarrolladora Frontend.
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/ef/c5/4f/efc54f9de5040277756eeb1cc332f471.jpg">
-
 
 💻 Actualmente estoy trabajando en mejorar mis habilidades en diseño UI/UX y en el uso de herramientas como Figma.
 
