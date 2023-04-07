@@ -1,4 +1,4 @@
-![MasterHead]()
+
 
 
 ¡Hola! 👋 Soy desarrolladora frontend creativa y apasionada por la creación de experiencias web interactivas y atractivas. Aquí encontrarás algunos de mis proyectos más recientes durante mi proceso como Desarrolladora Frontend.
