@@ -19,7 +19,8 @@
 
 🦋 Encuéntrame en [Github](https://github.com/andreazu14)
 
-  💻🙋🏻‍♀️[Mi perfil de LinkedIn](linkedin.com/in/andrea-zuluaga-monroy)
+  💻[Mi perfil de LinkedIn](https://www.linkedin.com/in/andrea-zuluaga-monroy/)
+
 
 
 
