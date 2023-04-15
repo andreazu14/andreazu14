@@ -11,7 +11,7 @@
 ✨ Estoy buscando colaborar en proyectos web interesantes y desafiantes.
 
 
-⚡ Dato curioso: Me encanta leer libros de crecimiento personal y psicología, ¡siempre estoy buscando nuevas formas de mejorar mi vida! Además, me apasiona        investigar temas nuevos y relacionarme con personas  de diferentes campos para expandir mi conocimiento por cierto también me encanta el café.
+⚡ Dato curioso: Me encanta leer libros de crecimiento personal y Filosofía, ¡siempre estoy buscando nuevas formas de mejorar mi vida! Además, me apasiona        investigar temas nuevos y relacionarme con personas  de diferentes campos para expandir mi conocimiento y también me encanta el café ☕.
 
 📫 Puedes contactarme a través de mi correo electrónico: [andreazuluagamonroy555@gmail.com]
 
