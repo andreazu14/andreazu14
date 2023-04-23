@@ -1,14 +1,12 @@
 
 
 
-¡Hola! 👋 Soy desarrolladora frontend creativa y apasionada por la creación de experiencias web interactivas y atractivas. Aquí encontrarás algunos de mis proyectos más recientes durante mi proceso como Desarrolladora Frontend.
+¡Hola! 👋 Soy Desarrolladora Web creativa y apasionada por la creación de experiencias web interactivas y atractivas. Aquí encontrarás algunos de mis proyectos más recientes durante mi proceso como Desarrolladora Frontend.
 
 
 💻 Actualmente estoy trabajando en mejorar mis habilidades en diseño UI/UX y en el uso de herramientas como Figma.
 
-🌱 Estoy siempre aprendiendo y buscando nuevas formas de mejorar en mi carrera como Desarrolladora Frontend.
-
-✨ Estoy buscando colaborar en proyectos web interesantes y desafiantes.
+🌱 Estoy siempre aprendiendo y buscando nuevas formas de mejorar en mi carrera como Desarrolladora Web.
 
 
 ⚡ Dato curioso: Me encanta leer libros de crecimiento personal y Filosofía, ¡siempre estoy buscando nuevas formas de mejorar mi vida! Además, me apasiona        investigar temas nuevos y relacionarme con personas  de diferentes campos para expandir mi conocimiento y también me encanta el café ☕.
