@@ -1,8 +1,7 @@
 
 
 
-Desarrolladora Web creativa y apasionada por la creación de experiencias web interactivas y atractivas. Aquí encontrarás algunos de mis proyectos más recientes durante mi proceso como Desarrolladora Frontend.
-
+ Desarrolladora web en constante aprendizaje y desarrollo, experiencia en HTML, CSS, JavaScript, React.js y Next.js. Tengo experiencia en la maquetación básica de páginas web y en la implementación de funcionalidades con JavaScript. Además, cuento con habilidades en la planificación y diseño de interfaces de usuario, validación de requisitos y entrega de resultados.
 
 💻 Actualmente estoy aprendiendo JavaScript y frameworks React.js y Next.js.
 
