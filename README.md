@@ -9,7 +9,7 @@ Desarrolladora Web creativa y apasionada por la creación de experiencias web in
 🌱 Estoy siempre aprendiendo y buscando nuevas formas de mejorar en mi carrera como Desarrolladora Web.
 
 
-⚡ Dato curioso: Me egusta leer libros de crecimiento personal y Filosofía, ¡siempre estoy buscando nuevas formas de mejorar mi vida! Además, me apasiona        investigar temas nuevos y relacionarme con personas  de diferentes campos para expandir mi conocimiento y también me encanta el café ☕.
+⚡ Dato curioso: Me gusta leer libros de crecimiento personal y Filosofía, ¡siempre estoy buscando nuevas formas de mejorar mi vida! Además, me apasiona        investigar temas nuevos y relacionarme con personas  de diferentes campos para expandir mi conocimiento y también me encanta el café ☕.
 
 📫 Puedes contactarme a través de mi correo electrónico: [andreazuluagamonroy555@gmail.com]
 
