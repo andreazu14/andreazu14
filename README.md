@@ -1,7 +1,7 @@
 
 
 
-¡Hola! 👋 Soy Desarrolladora Web creativa y apasionada por la creación de experiencias web interactivas y atractivas. Aquí encontrarás algunos de mis proyectos más recientes durante mi proceso como Desarrolladora Frontend.
+Desarrolladora Web creativa y apasionada por la creación de experiencias web interactivas y atractivas. Aquí encontrarás algunos de mis proyectos más recientes durante mi proceso como Desarrolladora Frontend.
 
 
 💻 Actualmente estoy trabajando en mejorar mis habilidades en diseño UI/UX y en el uso de herramientas como Figma.
